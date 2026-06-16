@@ -116,12 +116,10 @@ const nikhil = {
 
 </div>
 
-<div align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=nik1910-sd&theme=dark&hide_border=false" />
-</div>
+
 
 ---
-
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
 </div>
+
