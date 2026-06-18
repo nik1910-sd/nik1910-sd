@@ -7,9 +7,9 @@
   <a href="mailto:nikhilkumar191003@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://github.com/nik1910-sd">
+  <!-- <a href="https://github.com/nik1910-sd">
     <img src="https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
+  </a> -->
 </div>
 
 <br/>
